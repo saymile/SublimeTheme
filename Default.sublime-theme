@@ -330,7 +330,7 @@
     {
         "class": "sidebar_label",
         "color": [200, 200, 200],
-        "font_face": "URW Gothic L", // eric add this line
+        "font.face": "Monaco", // eric add this line
         "font.size": 15.0  //eric add this line
 
         // 0 0 0  text in the sidebar tree
@@ -570,7 +570,7 @@
         "fg": [0, 0, 0, 255],
         "shadow_color": [255, 255, 255, 80],
         "shadow_offset": [0, 1],
-        "font_face":"Droid Sans Mono",
+        "font_face":"Monaco",
         "font.size":12.0  //eric add this line
     },
     {
